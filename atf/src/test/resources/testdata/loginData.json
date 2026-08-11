@@ -1,0 +1,15 @@
+{
+    "users": [
+        {
+            "email": "mani4malar@gmail.com",
+            "password": "Password123",
+            "run": "yes"
+        }
+        ,
+        {
+            "email": "mani4malar2@gmail.com",
+            "password": "Password123",
+            "run": "no"
+        }
+    ]
+}
