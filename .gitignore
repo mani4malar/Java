@@ -1,0 +1,11 @@
+# VS Code
+.vscode/
+
+# Maven build folders
+**/target/
+
+# Java class files
+**/*.class
+
+# Local Maven repository (if inside the project)
+.m2repository/
